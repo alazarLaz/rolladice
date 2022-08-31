@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rolladice/static/css/main.ec132593.css",
+    "main.js": "/rolladice/static/js/main.1a6dac86.js",
+    "static/js/787.9cb6bcb6.chunk.js": "/rolladice/static/js/787.9cb6bcb6.chunk.js",
+    "index.html": "/rolladice/index.html",
+    "main.ec132593.css.map": "/rolladice/static/css/main.ec132593.css.map",
+    "main.1a6dac86.js.map": "/rolladice/static/js/main.1a6dac86.js.map",
+    "787.9cb6bcb6.chunk.js.map": "/rolladice/static/js/787.9cb6bcb6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec132593.css",
+    "static/js/main.1a6dac86.js"
+  ]
+}
